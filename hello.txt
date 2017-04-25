@@ -1,7 +1,5 @@
 hello world
-<<<<<<< HEAD
-\n new line
-=======
 
-can i add from git?!
->>>>>>> 8c066b110b9fb302c46b2e3cdba86cb2ead1ba72
+
+can i add from git!!! yes!
+
